@@ -1,0 +1,14 @@
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day_2\BasicSolution\TestApp\bin\Debug\net8.0\TestApp.exe
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day_2\BasicSolution\TestApp\bin\Debug\net8.0\TestApp.deps.json
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day_2\BasicSolution\TestApp\bin\Debug\net8.0\TestApp.runtimeconfig.json
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day_2\BasicSolution\TestApp\bin\Debug\net8.0\TestApp.dll
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day_2\BasicSolution\TestApp\bin\Debug\net8.0\TestApp.pdb
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day_2\BasicSolution\TestApp\obj\Debug\net8.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day_2\BasicSolution\TestApp\obj\Debug\net8.0\TestApp.AssemblyInfoInputs.cache
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day_2\BasicSolution\TestApp\obj\Debug\net8.0\TestApp.AssemblyInfo.cs
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day_2\BasicSolution\TestApp\obj\Debug\net8.0\TestApp.csproj.CoreCompileInputs.cache
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day_2\BasicSolution\TestApp\obj\Debug\net8.0\TestApp.dll
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day_2\BasicSolution\TestApp\obj\Debug\net8.0\refint\TestApp.dll
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day_2\BasicSolution\TestApp\obj\Debug\net8.0\TestApp.pdb
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day_2\BasicSolution\TestApp\obj\Debug\net8.0\TestApp.genruntimeconfig.cache
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day_2\BasicSolution\TestApp\obj\Debug\net8.0\ref\TestApp.dll
